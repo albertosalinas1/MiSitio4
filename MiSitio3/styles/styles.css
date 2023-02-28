@@ -1,0 +1,66 @@
+h1{
+    color:red;
+}
+.main-heading{
+    color:red;
+}
+h1{
+    color:blue;
+}
+
+body{
+    color:blue;
+}
+span{
+    color:black;
+}
+
+h1{
+    color:green;
+    text-decoration: underline;
+}
+p{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+.box{
+background-color: #567895;
+}
+h2{
+    background-color: black;
+    color: white;
+}
+span{
+    background-color: rgba(255,255,255,.5);
+}
+.a {
+    background-image: url(balloons.jpg);
+}
+  
+.b {
+    background-image: url(star.png);
+}
+.box{
+    border: 1px solid black;
+}
+.box{
+    border-top: 1px solid black;
+}
+.box{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.box{
+    background-color: #567895;
+    border: 5px solid #0b385f;
+    border-bottom-style: dashed;
+    color: #fff;
+}
+
+h2{
+    border-top: 2px dotted rebeccapurple;
+    border-bottom: 1em double rgb(24, 163,78);
+}
+
